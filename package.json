@@ -9,7 +9,7 @@
         "languages": [{
             "id": "genie",
             "aliases": ["Genie", "genie"],
-            "extensions": [".genie"]
+            "extensions": [".genie", ".tt"]
         }],
         "grammars": [{
             "language": "genie",
